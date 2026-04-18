@@ -4,9 +4,10 @@
 
 ---
 
-# 💻 Plateforme
+# 💻 Plateformes
 
 [![Fabric](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/fabric_vector.svg)](https://fabricmc.net/)
+[![QuiltMC](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/quilt_vector.svg)](https://quiltmc.org/en/)
 
 ---
 
@@ -28,14 +29,14 @@
 
 # ⭐ Support
 
-- ✏️ Mod développé pour **Fabric 1.21.8**
+- ✏️ Mod développé pour **Fabric 1.21.8** (ou autre fork compatibles comme [QuiltMC](https://quiltmc.org/en/)
 - 🎙️ Voicechat **inclus**
 
 ---
 
 # ℹ️ Important
 
-🛡️ Ce mod **est en cours de dev** (nous refaison tout le mod)
+🛡️ Ce mod **est en cours de dev** (nous refaisons tout le mod)
 
 ---
 
