@@ -29,7 +29,7 @@
 
 # ⭐ Support
 
-- ✏️ Mod développé pour **Fabric 1.21.8** (ou autre fork compatibles comme [QuiltMC](https://quiltmc.org/en/)
+- ✏️ Mod développé pour **Fabric 1.21.8** (ou autre fork compatibles comme [QuiltMC](https://quiltmc.org/en/))
 - 🎙️ Voicechat **inclus**
 
 ---
