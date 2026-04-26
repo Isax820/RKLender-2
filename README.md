@@ -13,7 +13,7 @@
 
 # 📜 Présentation
 
-🎮 *RKLender 2* (suite du projet *RKLender*) est un **mod Minecraft pour notre futur **client Minecraft** !
+🎮 *RKLender 2* (suite du projet *RKLender*) est un **mod** Minecraft pour notre futur **client Minecraft** !
 
 ---
 
