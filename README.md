@@ -1,6 +1,6 @@
-# ⛏️ RKLender 2
+# ⛏️ RKLender
 
-👉 **RKLender 2** est la **suite du projet RKLender** par leurs devs (*Isax et Reullik_kammo*) mais, ils ont décidés de **reprendre** le projet !
+👉 **RKLender 2** est la **suite du projet RKLender - NeoForge** par leurs devs (*Isax et Reullik_kammo*) mais, ils ont décidés de **reprendre** le projet !
 
 ---
 
@@ -13,7 +13,7 @@
 
 # 📜 Présentation
 
-🎮 *RKLender 2* (suite du projet *RKLender*) est un **mod** Minecraft pour notre futur **client Minecraft** !
+🎮 *RKLender* (suite du projet *RKLender - NeoForge*) est un **mod** Minecraft pour notre futur **client Minecraft** !
 
 ---
 
